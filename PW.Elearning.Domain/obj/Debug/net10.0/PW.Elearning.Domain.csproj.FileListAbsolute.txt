@@ -1,0 +1,11 @@
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Domain/bin/Debug/net10.0/PW.Elearning.Domain.deps.json
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Domain/bin/Debug/net10.0/PW.Elearning.Domain.dll
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Domain/bin/Debug/net10.0/PW.Elearning.Domain.pdb
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Domain/obj/Debug/net10.0/PW.Elearning.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Domain/obj/Debug/net10.0/PW.Elearning.Domain.AssemblyInfoInputs.cache
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Domain/obj/Debug/net10.0/PW.Elearning.Domain.AssemblyInfo.cs
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Domain/obj/Debug/net10.0/PW.Elearning.Domain.csproj.CoreCompileInputs.cache
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Domain/obj/Debug/net10.0/PW.Elearning.Domain.dll
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Domain/obj/Debug/net10.0/refint/PW.Elearning.Domain.dll
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Domain/obj/Debug/net10.0/PW.Elearning.Domain.pdb
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Domain/obj/Debug/net10.0/ref/PW.Elearning.Domain.dll

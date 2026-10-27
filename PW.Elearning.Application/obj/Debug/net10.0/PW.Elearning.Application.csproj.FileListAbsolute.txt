@@ -1,0 +1,15 @@
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/bin/Debug/net10.0/PW.Elearning.Application.deps.json
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/bin/Debug/net10.0/PW.Elearning.Application.dll
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/bin/Debug/net10.0/PW.Elearning.Application.pdb
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/bin/Debug/net10.0/PW.Elearning.Domain.dll
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/bin/Debug/net10.0/PW.Elearning.Domain.pdb
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/obj/Debug/net10.0/PW.Elearning.Application.csproj.AssemblyReference.cache
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/obj/Debug/net10.0/PW.Elearning.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/obj/Debug/net10.0/PW.Elearning.Application.AssemblyInfoInputs.cache
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/obj/Debug/net10.0/PW.Elearning.Application.AssemblyInfo.cs
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/obj/Debug/net10.0/PW.Elearning.Application.csproj.CoreCompileInputs.cache
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/obj/Debug/net10.0/PW.Elear.424E71A6.Up2Date
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/obj/Debug/net10.0/PW.Elearning.Application.dll
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/obj/Debug/net10.0/refint/PW.Elearning.Application.dll
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/obj/Debug/net10.0/PW.Elearning.Application.pdb
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Application/obj/Debug/net10.0/ref/PW.Elearning.Application.dll

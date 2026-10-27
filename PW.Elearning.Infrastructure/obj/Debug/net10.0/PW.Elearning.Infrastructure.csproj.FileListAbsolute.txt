@@ -1,0 +1,17 @@
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/bin/Debug/net10.0/PW.Elearning.Infrastructure.deps.json
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/bin/Debug/net10.0/PW.Elearning.Infrastructure.runtimeconfig.json
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/bin/Debug/net10.0/PW.Elearning.Infrastructure.dll
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/bin/Debug/net10.0/PW.Elearning.Infrastructure.pdb
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/bin/Debug/net10.0/PW.Elearning.Domain.dll
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/bin/Debug/net10.0/PW.Elearning.Domain.pdb
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/obj/Debug/net10.0/PW.Elearning.Infrastructure.csproj.AssemblyReference.cache
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/obj/Debug/net10.0/PW.Elearning.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/obj/Debug/net10.0/PW.Elearning.Infrastructure.AssemblyInfoInputs.cache
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/obj/Debug/net10.0/PW.Elearning.Infrastructure.AssemblyInfo.cs
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/obj/Debug/net10.0/PW.Elearning.Infrastructure.csproj.CoreCompileInputs.cache
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/obj/Debug/net10.0/PW.Elear.453161F0.Up2Date
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/obj/Debug/net10.0/PW.Elearning.Infrastructure.dll
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/obj/Debug/net10.0/refint/PW.Elearning.Infrastructure.dll
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/obj/Debug/net10.0/PW.Elearning.Infrastructure.pdb
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/obj/Debug/net10.0/PW.Elearning.Infrastructure.genruntimeconfig.cache
+/home/dencho/RiderProjects/PW.ELearning.Sik.Martonak/PW.Elearning.Infrastructure/obj/Debug/net10.0/ref/PW.Elearning.Infrastructure.dll

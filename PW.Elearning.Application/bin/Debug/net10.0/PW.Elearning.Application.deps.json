@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PW.Elearning.Application/1.0.0": {
+        "dependencies": {
+          "PW.Elearning.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PW.Elearning.Application.dll": {}
+        }
+      },
+      "PW.Elearning.Domain/1.0.0": {
+        "runtime": {
+          "PW.Elearning.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PW.Elearning.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PW.Elearning.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
