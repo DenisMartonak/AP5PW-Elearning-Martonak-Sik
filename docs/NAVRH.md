@@ -1,8 +1,4 @@
-# Návrh aplikace – E-learning
-
-Webová aplikace pro správu online výuky. Učitelé vytvářejí kurzy s lekcemi a úkoly,
-studenti se do kurzů zapisují, studují lekce a odevzdávají úkoly, které učitel hodnotí.
-
+# Návrh aplikace – E-learning.
 ## 1. Role uživatelů
 
 | Role | Popis |
@@ -16,9 +12,7 @@ studenti se do kurzů zapisují, studují lekce a odevzdávají úkoly, které u
 
 ### Diagram případů užití
 
-Přerušovaná šipka `«je»` znamená dědění role: Student, Učitel i Admin jsou přihlášení uživatelé
-a mohou vše, co přihlášený uživatel. Pravidla bez přímého aktéra (FR-03, FR-04, FR-09, FR-11,
-FR-14, FR-21, FR-22) jsou vynucena aplikací / databází a jsou uvedena v seznamu níže.
+Přerušovaná šipka `«je»` znamená dědění role.
 
 ```mermaid
 flowchart LR
@@ -123,8 +117,6 @@ flowchart LR
 
 ### Doménový model (entity v kódu)
 
-Třídy z `PW.Elearning.Domain/Entities` včetně navigačních vlastností.
-
 ```mermaid
 classDiagram
     direction LR
@@ -218,8 +210,6 @@ classDiagram
     User "1" -- "0..*" Submission : odevzdává
 ```
 
-Plný kosočtverec (`*--`) značí kompozici – podřízené záznamy se mažou kaskádově s kurzem / úkolem (FR-21).
-
 ### ER diagram
 
 ```mermaid
@@ -309,20 +299,9 @@ Všechny entity dědí z `BaseEntity` (`Id` – primární klíč, `CreatedAt` �
 
 ## 4. Architektura
 
-Aplikace je rozdělena do vrstev; závislosti směřují dovnitř k doméně.
-
 | Projekt | Vrstva | Obsah |
 |---|---|---|
 | `PW.Elearning.Domain` | Doménová | Entity, enum `Role`, rozhraní `IRepository<T>`, `ICourseRepository`, `IUnitOfWork`. Nezávisí na ničem. |
 | `PW.Elearning.Application` | Aplikační | Služby a DTO (např. `CourseService`, `CourseDto`). Závisí pouze na Domain. |
 | `PW.Elearning.Infrastructure` | Infrastruktura | EF Core `ElearningDbContext`, Fluent API konfigurace, migrace, implementace `Repository<T>` a specifických repozitářů. |
 | `PW.ELearning.Web` | Prezentační | ASP.NET Core MVC – controllery a views; skládá vrstvy pomocí DI. |
-
-**Repository pattern:** generický `Repository<T>` poskytuje CRUD operace pro libovolnou entitu
-(`GetByIdAsync`, `GetAllAsync`, `FindAsync`, `AddAsync`, `Update`, `Remove`) a je registrován jako
-otevřený generický typ `IRepository<>`. Specifické repozitáře (např. `CourseRepository`) z něj dědí
-a přidávají dotazy s `Include`. Ukládání změn řeší `IUnitOfWork` (implementovaný `DbContextem`),
-takže více operací se uloží v jedné transakci.
-
-**Databáze:** MySQL 8, přístup přes EF Core (provider `Microting.EntityFrameworkCore.MySql`),
-schéma spravováno migracemi.
